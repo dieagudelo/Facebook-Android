@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Banner-Facebook-Android</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">559513704249080</string>
+    <string name="id_banner">ca-app-pub-4151948372198273/8313487346</string>
+</resources>
